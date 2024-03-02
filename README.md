@@ -16,7 +16,7 @@ Given a 2D board containing 'X' and 'O', our task is to capture all regions surr
    - Change all remaining 'O' cells to 'X' since they are surrounded by 'X'.
    - Change marked '$' cells back to 'O' as they are not surrounded by 'X'.
 
-    ```
+    
 
 ## Inputs
 
